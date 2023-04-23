@@ -4,7 +4,7 @@
   1. Tareas Previas
   2. Ejercicios
   3. Test
-
+  4. Ejercicio Clase
 
 ### Tareas Previas
 
