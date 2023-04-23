@@ -640,6 +640,15 @@ Los tests estan hechos usando el paquete _request_ para llevar a cabo peticiones
 
 
   30 passing (24ms)
+
+------------------|---------|----------|---------|---------|-------------------
+File              | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
+------------------|---------|----------|---------|---------|-------------------
+All files         |     100 |      100 |     100 |     100 |                   
+ funko.ts         |     100 |      100 |     100 |     100 |                   
+ funkoPopGenre.ts |     100 |      100 |     100 |     100 |                   
+ funkoPopType.ts  |     100 |      100 |     100 |     100 |                   
+------------------|---------|----------|---------|---------|-------------------
 ```
 
 ```
