@@ -1,6 +1,10 @@
 {
   "entryPoints": [
-
+    "./src/FunkoPopApp/app.ts",
+    "./src/FunkoPopApp/funko.ts",
+    "./src/FunkoPopApp/funkoPopGenre.ts",
+    "./src/FunkoPopApp/funkoPopType.ts",
+    "./src/Mod/app.ts",
   ],
   "out": "./docs"
 }

@@ -34,6 +34,6 @@ app.use((req, res) => {
   res.status(404).send('404 - Not found');
 });
 
-app.listen(3001, () => {
-  console.log("Server is up on port 3001");
+app.listen(3002, () => {
+  console.log("Server is up on port 3002");
 });
